@@ -1,6 +1,8 @@
 # custom_time_picker
 
-A new Flutter project.
+Custom Flutter Time-Picker Widget.
+
+<img src="./timepicker.gif" alt="GIF" height="700">
 
 ## Getting Started
 
